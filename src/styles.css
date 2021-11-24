@@ -3,8 +3,3 @@
 @tailwind utilities;
 
 
-.responsive{
-    @apply ;
-}
-
-npm run build-css
